@@ -4,7 +4,7 @@ function Header(props) {
       return (
         <h1>
           {/* uncomment the line below to pass the test */}
-          screen.queryByText("hello from the Header!")).toBeInTheDocument();
+         "hello from the Header!"
         </h1>
       )
 }
